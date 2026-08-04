@@ -19,5 +19,9 @@
     "canvas-confetti": "^1.9.4",
     "tailwindcss": "^4.2.1",
     "vite": "^8.0.13"
+  },
+  "devDependencies": {
+    "@astrojs/language-server": "^2.16.13",
+    "typescript": "^7.0.2"
   }
 }
